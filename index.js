@@ -44,7 +44,7 @@ class Studnet extends Person {
         console.log(this.firstname);
     }
 }
-
+//null
 const student1 = new Studnet()
 
 student1.write()
